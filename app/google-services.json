@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "511275386122",
+    "firebase_url": "https://android-alpha-demo-fa101.firebaseio.com",
+    "project_id": "android-alpha-demo-fa101",
+    "storage_bucket": "android-alpha-demo-fa101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511275386122:android:8c3017a993c5f5b0",
+        "android_client_info": {
+          "package_name": "com.demo.landlordpractise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511275386122-rbejombpanbt606olecudv1i6h06dffq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.landlordpractise",
+            "certificate_hash": "9fe956f934dc7691376b05991170a8aa724f5f13"
+          }
+        },
+        {
+          "client_id": "511275386122-es8b6harrgu8kgo2q4vj3re5m8dppia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWPSIkWBuSX3VY1_BNStTWYItBpl4HzbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511275386122-es8b6harrgu8kgo2q4vj3re5m8dppia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
